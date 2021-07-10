@@ -6,7 +6,16 @@ The telecommunications industry is one of the fastest-growing sectors in the wor
 
 Cote d’Ivoire has two competing companies offering fixed telecommunication services. The MTN Group and Orange network. As of mid-2017, MTN had a market share of 34% in the telecommunication field. With MTN being one of the strongest telecoms companies in Ivory Coast it is crucial that they sustain their profitability and adaptability rates by expanding their infrastructure across various cities in the country. This analysis was conducted to provide the best proposal on how MTN should upgrade their fracture.
 
-The data sets in this analysis contain MTN product usage data consisting of MTN products, their billing price, and anonymized phone numbers for data privacy. This data set is a three-day sample extracted from a contemporary dataset. The geo data set consists of cities in Ivory Coast which will be merged with the other dataset to infer observations from the data
+The data sets in this analysis contain MTN product usage data consisting of MTN products, their billing price, and anonymized phone numbers for data privacy. This data set is a three-day sample extracted from a contemporary dataset. The geo data set consists of cities in Ivory Coast which will be merged with the other dataset to infer observations from the data. For the analysis the following questions were answered: 
+
+* Which was the most used MTN product for the three days?
+
+* Which cities had the most usage of MTN products?
+
+* What was the highest amount of money spent on MTN Products?
+
+* What City had the highest usage for the three days?
+
 
 # Technologies Used
 Various Python Libraries
