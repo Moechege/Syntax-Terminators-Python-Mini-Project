@@ -25,6 +25,14 @@ This project demonstrates how various data cleaning and analysis models can be a
 
 # Contributors
 Maureen Chege
+Patrick Munyao
+Victor Smythe
+Peggy Rose
+Sylvia Njogu 
+Moraa Nyamweya 
+Adrian Motari
+Angela Ogega 
+Laibuta Kimathi 
 
 # Authors and Acknowledgements
 Acknowledgments- The syntax terminators group, thank you for coming together to complete this project.
